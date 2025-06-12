@@ -35,7 +35,7 @@ To get started with this project, follow these instructions:
 To clone the repository, run the following command:
 
 ```bash
-git clone https://github.com/PrathameshBamb/Vox-Voice-Assistant.git
+git clone https://github.com/ganeshrupanwar/Vox-Voice-Assistant.git
 cd path to your project file
 python main.py
 ```
